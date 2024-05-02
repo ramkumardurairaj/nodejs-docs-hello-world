@@ -15,7 +15,7 @@ variables:
   webAppName: 'helloworld-nodejs-897'
 
   # Environment name
-  environmentName: ''
+  environmentName: 'Prod'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
